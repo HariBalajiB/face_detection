@@ -11,7 +11,7 @@ python --version
 OpenCV 3.4.3 was used with this project, suitable for Python 3.6. To determine if you have properly installed OpenCV, type the following from the python command line:
 
 For documentation, please read:
-https://pysource.com/2019/03/12/face-landmarks-detection-opencv-with-python/
+https://becominghuman.ai/face-detection-using-opencv-with-haar-cascade-classifiers-941dbb25177
 
 #FaceLandmark
 Frst you have to download this file for using dlib shape predictor.
